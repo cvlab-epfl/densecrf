@@ -12,7 +12,7 @@ consider citing the following paper:
   journal={arXiv preprint arXiv:1511.06103},
   year={2015}
 }
-'''
+```
 
 If you are using densecrf, please consider citing the following paper:
 ```
